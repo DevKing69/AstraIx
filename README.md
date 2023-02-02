@@ -18,7 +18,7 @@
  <a herf="#Pandas"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy5t-UIY3aJFEWhQb_0mfG-H0QbfC-OqDArrVdbsQ3501GeNc-XYUFbvY8-mY4-QIjup4&usqp=CAU" alt="Python" width="40" height="40"></a>
   <a herf="#Seaborn"><img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" alt="Python" width="40" height="40"></a>
   <a herf="#Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Python" width="40" height="40"></a>
-</a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a> <a href="css3" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/>
 </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
