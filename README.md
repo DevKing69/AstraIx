@@ -24,4 +24,4 @@
 
 
 <h2>Contact:</h2><br>
-<p>devking@gmail.com</p>
+<p>devking969@gmail.com</p>
