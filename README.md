@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AstraIx</h1>
 <h3 align="center">A curious brain🧠</h3>
 
-- 🔭 My vision is to build a revolutionary AI that has the potential to change the world  
+- 🔭 My goal is to create AI solutions that not only provide value to businesses and organizations, but also benefit society as a whole. 
 
 - 🌱 I’m currently a Machine Learning Student 
 
