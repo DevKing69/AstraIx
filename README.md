@@ -20,6 +20,7 @@
   <a herf="#Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Python" width="40" height="40"></a>
 </a> <a href="css3" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/>
 </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+ <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE5Tg2UIe99z0sFGiXPDLOa5q5jG-FOltnczE5AU&s" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE5Tg2UIe99z0sFGiXPDLOa5q5jG-FOltnczE5AU&s" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
 
